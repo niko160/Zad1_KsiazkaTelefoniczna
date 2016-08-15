@@ -1,0 +1,9 @@
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\bin\Debug\Zad1_KsiazkaTelefoniczna.exe.config
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\bin\Debug\Zad1_KsiazkaTelefoniczna.exe
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\bin\Debug\Zad1_KsiazkaTelefoniczna.pdb
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\obj\Debug\Zad1_KsiazkaTelefoniczna.csprojResolveAssemblyReference.cache
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\obj\Debug\Zad1_KsiazkaTelefoniczna.exe
+c:\users\dnikodex\documents\visual studio 2015\Projects\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\obj\Debug\Zad1_KsiazkaTelefoniczna.pdb
+C:\Users\dnikodex\Desktop\Zadania\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\bin\Debug\Zad1_KsiazkaTelefoniczna.exe.config
+C:\Users\dnikodex\Desktop\Zadania\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\obj\Debug\Zad1_KsiazkaTelefoniczna.exe
+C:\Users\dnikodex\Desktop\Zadania\Zad1_KsiazkaTelefoniczna\Zad1_KsiazkaTelefoniczna\obj\Debug\Zad1_KsiazkaTelefoniczna.pdb
